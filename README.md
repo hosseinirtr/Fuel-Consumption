@@ -1,4 +1,4 @@
-📝 Readme for Fuel Consumption Regression Model 🚗 
+📝 The Fuel Consumption Regression Model 🚗 
 
 🔎 Overview
 This code uses a dataset called "FuelConsumption.csv" to build a regression model for predicting CO2 emissions based on engine size, number of cylinders, and fuel consumption. The model is built using linear regression, and the performance is evaluated using the residual sum of squares and the variance score. 
